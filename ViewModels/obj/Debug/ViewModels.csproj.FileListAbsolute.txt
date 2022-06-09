@@ -1,0 +1,12 @@
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\obj\Debug\ViewModels.csproj.AssemblyReference.cache
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\JADPA13\source\repos\Libreria\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\obj\Debug\ViewModels.csproj.AssemblyReference.cache
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\JADPA23\Desktop\Libreria2M3\ViewModels\obj\Debug\ViewModels.pdb
